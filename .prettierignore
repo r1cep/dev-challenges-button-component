@@ -1,0 +1,8 @@
+dist
+coverage
+pnpm-lock.yaml
+
+.eslintignore
+.gitignore
+.prettierignore
+.stylelintignore
