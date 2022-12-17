@@ -1,0 +1,12 @@
+:root {
+  --blue: #3d5afe;
+  --font-noto-sans: "Noto Sans JP", sans-serif;
+  --font-poppins: "Poppins", sans-serif;
+  --font-ubuntu-mono: "Ubuntu Mono", monospace;
+}
+
+body {
+  font-family: var(--font-noto-sans);
+  font-style: normal;
+  font-weight: 500;
+}

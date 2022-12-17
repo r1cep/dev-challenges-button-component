@@ -15,6 +15,11 @@ export default defineConfig({
       "@": resolve(__dirname, "src"),
     },
   },
+  css: {
+    modules: {
+      localsConvention: "camelCaseOnly",
+    },
+  },
   test: {
     globals: true,
     environment: "happy-dom",

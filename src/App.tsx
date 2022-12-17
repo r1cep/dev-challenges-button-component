@@ -1,7 +1,7 @@
 import { clsx } from "clsx";
 import { useState } from "react";
 
-import styles from "./App.module.scss";
+import styles from "./App.module.css";
 import reactLogo from "./assets/react.svg";
 
 export const App = () => {

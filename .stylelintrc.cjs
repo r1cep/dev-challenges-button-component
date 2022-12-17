@@ -7,7 +7,6 @@ module.exports = {
     "stylelint-config-recess-order",
     "stylelint-config-prettier",
   ],
-  customSyntax: "postcss-scss",
   plugins: ["stylelint-order"],
   rules: {
     "order/order": ["custom-properties", "declarations"],
